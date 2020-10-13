@@ -7,7 +7,6 @@ Steps:
 
 https://youtu.be/TyJtp5w9tU8
 
-![Result](./img.png)
-
+<img src="img.png">
 
 Run Simulator and Control_Car.py for testing
