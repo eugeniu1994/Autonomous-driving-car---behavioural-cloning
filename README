@@ -5,5 +5,9 @@ Steps:
 3)Train a regression model (input images, output steering angle)
 4)use the model to control the car steering angle
 
+Result:
+https://youtu.be/TyJtp5w9tU8
+
+
 
 Run Simulator and Control_Car.py for testing
