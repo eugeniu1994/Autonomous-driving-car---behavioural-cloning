@@ -9,6 +9,6 @@ VIDEO:  https://youtu.be/TyJtp5w9tU8
 
 (https://github.com/eugeniu1994/Autonomous-driving-car---behavioural-cloning/blob/main/images/img.png)
 
-<img src="images/img.png" width="100" />
+<img src="images/img.png" />
 
 Run Simulator and Control_Car.py for testing
